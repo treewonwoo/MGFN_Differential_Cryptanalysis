@@ -116,10 +116,10 @@ MGFN_24R_DC_CODE/
 
 
 ## ⚙️ How to Customize
--
-You must set all file paths, dataset sizes, mask values, and performance parameters at the top of each script or source file before running.
+
+You must set all file paths, dataset sizes, mask values, and performance parameters at the top of each script or source file before running.  
 Each stage is independent; there is no automatic “one click” full flow.
----
+Intermediate files may be several GB in size, so adjust storage and options as needed.
 
 
 
