@@ -66,7 +66,7 @@ There is no “one-click” automation; you have full control and must configure
      python filter.py
      ```
 
-6. **(Optional) Repeat for Another Differential Characteristic**
+6. **Repeat with Another Differential Characteristic**
    - Repeat steps 3–5 for another characteristic if needed to recover all round-key XORs.
 
 7. **Recover Round-Key XORs via S-box Analysis**
