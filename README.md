@@ -10,7 +10,7 @@ There is no “one-click” automation; you have full control and must configure
 ## 🚦 Pipeline Overview
 
 1. **Find a Master Key Satisfying Key Schedule Constraints**
-   - Run `key_condition.py` to search for a 128-bit master key whose key schedule satisfies the required bitwise XOR constraints.
+   - Run `key_condition.py` to search for a 128-bit master key which meet 8 conditions for differential cryptanalysis.
    - Before running: Open `key_condition.py` and set any variables such as constraint logic, random seed, or maximum trials as needed.
    - Run:
      ```bash
