@@ -128,7 +128,7 @@ Intermediate files may be several GB in size, so adjust storage and options as n
 ```
 MIT License
 
-Copyright (c) 2025 Wonwoo Song
+Copyright (c) 2025 Wonwoo Song, Namil Kim, Seungjun Baek, Yongjin Jeon, Giyoon Kim and Jongsung Kim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
